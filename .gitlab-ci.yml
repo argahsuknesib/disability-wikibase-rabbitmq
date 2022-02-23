@@ -1,0 +1,3 @@
+deploy-rabbit :
+  script :
+    - docker compose up
